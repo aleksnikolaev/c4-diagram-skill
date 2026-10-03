@@ -138,6 +138,11 @@ This skill generates **Container diagrams** (Level 2 in the C4 model):
 
 For the full C4 model specification, see [c4model.com](https://c4model.com/).
 
+## Author
+
+Built by Alex Nik, NIKSOFT. I design and document system architecture for logistics and operations software.
+Available for short paid architecture work: nicholaev@gmail.com
+
 ## License
 
 MIT
